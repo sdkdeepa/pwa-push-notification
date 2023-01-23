@@ -6,3 +6,8 @@
 4. To run the app in localhost `npm start`
 
 ![Push notification](https://github.com/sdkdeepa/pwa-push-notification/blob/main/notification.png)
+
+### TO DO
+
+1. Add webappmanifest
+2. Fix Lighhouse errors to make sure this application is PWA compitible

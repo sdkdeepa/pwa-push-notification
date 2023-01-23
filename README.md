@@ -5,3 +5,4 @@
 3. Add the keys in `index.js` and `client.js`
 4. To run the app in localhost `npm start`
 
+![Push notification](https://github.com/sdkdeepa/pwa-push-notification/blob/main/notification.png)
